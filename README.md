@@ -1,0 +1,1 @@
+A Python tool to generate QR codes using the qrcode library. Users can input text or URLs, create QR codes with high error correction, and save them in multiple image formats via an interactive Tkinter interface. Simple, fast, and user-friendly QR code generation. Provides both a terminal-based version and a Tkinter GUI
